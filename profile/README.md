@@ -19,10 +19,10 @@
 
 Используем проверенные временем и индустрией технологии для создания стабильного софта:
 
-*   **Core / Languages:** Python (FastAPI, Django, Asyncio)
-*   **Databases:** PostgreSQL, Redis, Vector DBs (для ИИ-решений)
+*   **Core / Languages:** Python (FastAPI, Flask, Django, Asyncio, SQLAlchemy, Alembic)
+*   **Databases:** PostgreSQL, SQLite, Redis, Vector DBs (для ИИ-решений)
 *   **DevOps & Infra:** Docker, Docker Compose, CI/CD (GitHub Actions)
-*   **AI / Data:** OpenRouter API, LangChain, RAG-системы
+*   **AI / Data:** OpenAI API, OpenRouter, LangChain, RAG-системы
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## ✉️ Контакты для связи
 
-Готовы обсудить проект или задачу? Свяжитесь с нами:
+Готовы обсудить проект или задачу? Пишите, всегда рады!
 
 *   **Telegram:** [@mynamemyway](https://t.me/mynamemyway)
 *   **Email:** samokhvaloff.on@gmail.com
